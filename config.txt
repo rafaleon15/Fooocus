@@ -1,5 +1,6 @@
 {
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/357609"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/357609",
+		"realisticVisionV60B1_v51VAE.safetensors": "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=full&fp=fp16"
     }
 }
